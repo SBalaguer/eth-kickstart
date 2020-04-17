@@ -10,7 +10,7 @@ The project runs on the ETH Rinkeby Test Network.
 
 ## Installation
 
-Since this project is for learning purposes only, there is no production script. Download/Fork the repository and run the following commands.
+Since this project is for learning purposes only; production scripts are only meant for deploying. Download/Fork the repository and run the following commands.
 Process will run in port 3000.
 
 ```bash
