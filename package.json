@@ -7,7 +7,7 @@
     "test": "mocha --timeout 10000",
     "dev": "node server.js",
     "start": "next start -p $PORT",
-    "heroku-postbuild": "npm run build",
+    "build": "next build",
     "export": "npm run build && next export"
   },
   "author": "",
